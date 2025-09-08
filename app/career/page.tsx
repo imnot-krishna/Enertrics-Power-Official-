@@ -43,8 +43,18 @@ const jobs = [
 const locations = ['All', ...Array.from(new Set(jobs.map((j) => j.location)))];
 const types = ['All', ...Array.from(new Set(jobs.map((j) => j.type)))];
 
+type Job = typeof jobs[number];
+
+type ApplicationFormState = {
+	name: string;
+	email: string;
+	position: string;
+	message: string;
+	resume: File | null;
+};
+
 export default function CareerPage() {
-	const [form, setForm] = useState({
+	const [form, setForm] = useState<ApplicationFormState>({
 		name: '',
 		email: '',
 		position: '',
@@ -52,7 +62,7 @@ export default function CareerPage() {
 		resume: null,
 	});
 	const [submitted, setSubmitted] = useState(false);
-	const [modalJob, setModalJob] = useState(null);
+	const [modalJob, setModalJob] = useState<Job | null>(null);
 	const [search, setSearch] = useState('');
 	const [filterLocation, setFilterLocation] = useState('All');
 	const [filterType, setFilterType] = useState('All');
@@ -68,11 +78,12 @@ export default function CareerPage() {
 
 	// Form handlers
 	const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-		if (e.target.name === 'resume') {
+		if (e.target instanceof HTMLInputElement && e.target.name === 'resume') {
 			setForm({ ...form, resume: e.target.files?.[0] || null });
-		} else {
-			setForm({ ...form, [e.target.name]: e.target.value });
+			return;
 		}
+		const { name, value } = e.target;
+		setForm({ ...form, [name]: value } as ApplicationFormState);
 	};
 
 	const handleSubmit = (e: React.FormEvent) => {
