@@ -1,0 +1,93 @@
+# Image Assets Directory
+
+This directory should contain the following image assets for the Enertrics Power website:
+
+## Required Images
+
+### Product Images
+- /products/battery-pack-1.jpg
+- /products/battery-pack-2.jpg
+- /products/battery-pack-3.jpg
+- /products/electric-motor-1.jpg
+- /products/electric-motor-2.jpg
+- /products/charging-station-1.jpg
+- /products/charging-station-2.jpg
+- /products/bms-1.jpg
+- /products/bms-2.jpg
+- /products/inverter-1.jpg
+- /products/inverter-2.jpg
+- /products/thermal-system-1.jpg
+- /products/thermal-system-2.jpg
+- /products/wireless-charging-1.jpg
+- /products/wireless-charging-2.jpg
+- /products/dashboard-1.jpg
+- /products/dashboard-2.jpg
+
+### Blog Images
+- /blog/future-ev-mobility.jpg
+- /blog/battery-recycling.jpg
+- /blog/ev-charging-infrastructure.jpg
+- /blog/thermal-management.jpg
+- /blog/urban-planning-ev.jpg
+- /blog/ev-manufacturing.jpg
+
+### Team Images
+- /team/sarah-chen.jpg
+- /team/michael-rodriguez.jpg
+- /team/jennifer-park.jpg
+- /team/david-wilson.jpg
+- /team/lisa-thompson.jpg
+- /team/robert-kim.jpg
+- /team/alex-johnson.jpg
+- /team/Kumar Gambhir.jpg
+
+### Partner Logos
+- /partners/tesla-logo.png
+- /partners/gm-logo.png
+- /partners/ford-logo.png
+- /partners/vw-logo.png
+- /partners/bmw-logo.png
+- /partners/mercedes-logo.png
+- /partners/audi-logo.png
+- /partners/porsche-logo.png
+- /partners/rivian-logo.png
+- /partners/lucid-logo.png
+- /partners/chargepoint-logo.png
+- /partners/electrify-america-logo.png
+
+### Other Images
+- og-image.jpg (1200x630 for social media)
+- favicon.ico
+- logo.png
+
+## Image Requirements
+
+- **Product Images**: 800x800px, JPG format
+- **Blog Images**: 1200x630px, JPG format
+- **Team Images**: 400x400px, JPG format
+- **Partner Logos**: 200x100px, PNG format with transparent background
+- **OG Image**: 1200x630px, JPG format
+
+## Temporary Solution
+
+For development, you can use placeholder image services like:
+- https://via.placeholder.com/800x800
+- https://picsum.photos/800/800
+- https://unsplash.com/ (for high-quality stock photos)
+
+## Example Usage
+
+```jsx
+// In components, use Next.js Image component
+import Image from 'next/image';
+
+<Image
+  src="/images/products/battery-pack-1.jpg"
+  alt="EV Battery Pack"
+  width={800}
+  height={800}
+  className="object-cover"
+/>
+```
+
+Replace placeholder images with actual product photos, team headshots, and company logos for production.

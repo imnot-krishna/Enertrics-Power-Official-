@@ -1,0 +1,311 @@
+[
+  {
+    "id": "1",
+    "slug": "ev-battery-pack-100kwh",
+    "title": "EV Battery Pack 100kWh",
+    "shortDesc": "High-capacity lithium-ion battery pack for electric vehicles",
+    "longDesc": "Our flagship 100kWh battery pack delivers exceptional range and performance for electric vehicles. Built with advanced thermal management and safety systems, this battery pack is designed for long-range EVs and commercial applications.",
+    "price": 15000,
+    "currency": "INR",
+    "images": [
+      "/images/products/battery-pack-1.jpg",
+      "/images/products/battery-pack-2.jpg",
+      "/images/products/battery-pack-3.jpg"
+    ],
+    "categories": ["batteries", "ev-components"],
+    "specs": {
+      "Capacity": "100 kWh",
+      "Voltage": "400V",
+      "Weight": "450 kg",
+      "Dimensions": "1200 x 800 x 200 mm",
+      "Cycle Life": "3000+ cycles",
+      "Charging Time": "8-10 hours (Level 2)",
+      "Warranty": "8 years"
+    },
+    "variants": [
+      {
+        "id": "1-1",
+        "name": "Standard",
+        "price": 15000,
+        "specs": {
+          "Capacity": "100 kWh",
+          "Charging Time": "8-10 hours"
+        }
+      },
+      {
+        "id": "1-2",
+        "name": "Fast Charge",
+        "price": 18000,
+        "specs": {
+          "Capacity": "100 kWh",
+          "Charging Time": "4-6 hours"
+        }
+      }
+    ],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "slug": "electric-motor-200kw",
+    "title": "Electric Motor 200kW",
+    "shortDesc": "High-performance electric motor for EVs and industrial applications",
+    "longDesc": "The 200kW electric motor delivers exceptional power and efficiency for electric vehicles. With advanced cooling systems and precise control, this motor is perfect for high-performance EVs and industrial applications.",
+    "price": 8500,
+    "currency": "INR",
+    "images": [
+      "/images/products/electric-motor-1.jpg",
+      "/images/products/electric-motor-2.jpg"
+    ],
+    "categories": ["motors", "ev-components"],
+    "specs": {
+      "Power": "200 kW",
+      "Torque": "400 Nm",
+      "Efficiency": "95%",
+      "Weight": "85 kg",
+      "Dimensions": "400 x 400 x 300 mm",
+      "Operating Temperature": "-40°C to +85°C",
+      "Warranty": "5 years"
+    },
+    "variants": [
+      {
+        "id": "2-1",
+        "name": "Standard",
+        "price": 8500
+      },
+      {
+        "id": "2-2",
+        "name": "High Performance",
+        "price": 12000
+      }
+    ],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "3",
+    "slug": "charging-station-dc-fast",
+    "title": "DC Fast Charging Station",
+    "shortDesc": "High-speed DC charging station for commercial and public use",
+    "longDesc": "Our DC fast charging station delivers up to 350kW of charging power, enabling rapid charging for electric vehicles. Perfect for commercial fleets, public charging networks, and high-traffic locations.",
+    "price": 25000,
+    "currency": "INR",
+    "images": [
+      "/images/products/charging-station-1.jpg",
+      "/images/products/charging-station-2.jpg"
+    ],
+    "categories": ["charging", "infrastructure"],
+    "specs": {
+      "Power Output": "350 kW",
+      "Voltage": "400-800V",
+      "Connector Type": "CCS, CHAdeMO",
+      "Installation": "Wall/Floor mounted",
+      "Display": "10-inch touchscreen",
+      "Connectivity": "4G, WiFi, Ethernet",
+      "Warranty": "3 years"
+    },
+    "variants": [
+      {
+        "id": "3-1",
+        "name": "Single Port",
+        "price": 25000
+      },
+      {
+        "id": "3-2",
+        "name": "Dual Port",
+        "price": 40000
+      }
+    ],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "4",
+    "slug": "battery-management-system",
+    "title": "Battery Management System",
+    "shortDesc": "Advanced BMS for monitoring and protecting battery packs",
+    "longDesc": "Our advanced Battery Management System provides real-time monitoring, protection, and optimization for battery packs. Features include cell balancing, thermal management, and predictive maintenance.",
+    "price": 1200,
+    "currency": "INR",
+    "images": [
+      "/images/products/bms-1.jpg",
+      "/images/products/bms-2.jpg"
+    ],
+    "categories": ["batteries", "electronics"],
+    "specs": {
+      "Cell Monitoring": "Up to 200 cells",
+      "Voltage Range": "2.5V - 4.2V per cell",
+      "Temperature Sensors": "16 channels",
+      "Communication": "CAN, RS485, UART",
+      "Protection": "Over/under voltage, over current, over temperature",
+      "Operating Temperature": "-40°C to +85°C",
+      "Warranty": "3 years"
+    },
+    "variants": [
+      {
+        "id": "4-1",
+        "name": "Standard",
+        "price": 1200
+      },
+      {
+        "id": "4-2",
+        "name": "Advanced",
+        "price": 1800
+      }
+    ],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "5",
+    "slug": "ev-inverter-150kw",
+    "title": "EV Inverter 150kW",
+    "shortDesc": "High-efficiency power inverter for electric vehicles",
+    "longDesc": "The 150kW EV inverter converts DC power from the battery to AC power for the electric motor. Features advanced control algorithms and high efficiency for optimal performance.",
+    "price": 3200,
+    "currency": "INR",
+    "images": [
+      "/images/products/inverter-1.jpg",
+      "/images/products/inverter-2.jpg"
+    ],
+    "categories": ["electronics", "ev-components"],
+    "specs": {
+      "Power Rating": "150 kW",
+      "Input Voltage": "300-800V DC",
+      "Output Voltage": "3-phase AC",
+      "Efficiency": "98%",
+      "Weight": "25 kg",
+      "Dimensions": "400 x 300 x 150 mm",
+      "Cooling": "Liquid cooled",
+      "Warranty": "5 years"
+    },
+    "variants": [
+      {
+        "id": "5-1",
+        "name": "Standard",
+        "price": 3200
+      },
+      {
+        "id": "5-2",
+        "name": "High Efficiency",
+        "price": 4500
+      }
+    ],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "6",
+    "slug": "thermal-management-system",
+    "title": "Thermal Management System",
+    "shortDesc": "Advanced cooling system for battery packs and motors",
+    "longDesc": "Our thermal management system ensures optimal operating temperatures for battery packs and electric motors. Features intelligent cooling control and energy-efficient operation.",
+    "price": 2800,
+    "currency": "INR",
+    "images": [
+      "/images/products/thermal-system-1.jpg",
+      "/images/products/thermal-system-2.jpg"
+    ],
+    "categories": ["cooling", "ev-components"],
+    "specs": {
+      "Cooling Capacity": "5 kW",
+      "Temperature Range": "-10°C to +60°C",
+      "Flow Rate": "10-50 L/min",
+      "Power Consumption": "500W",
+      "Weight": "15 kg",
+      "Dimensions": "300 x 200 x 100 mm",
+      "Noise Level": "< 45 dB",
+      "Warranty": "3 years"
+    },
+    "variants": [
+      {
+        "id": "6-1",
+        "name": "Standard",
+        "price": 2800
+      },
+      {
+        "id": "6-2",
+        "name": "Silent",
+        "price": 3500
+      }
+    ],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "7",
+    "slug": "wireless-charging-pad",
+    "title": "Wireless Charging Pad",
+    "shortDesc": "Inductive wireless charging solution for EVs",
+    "longDesc": "Our wireless charging pad provides convenient, cable-free charging for electric vehicles. Simply park over the pad and charging begins automatically with high efficiency.",
+    "price": 1800,
+    "currency": "INR",
+    "images": [
+      "/images/products/wireless-charging-1.jpg",
+      "/images/products/wireless-charging-2.jpg"
+    ],
+    "categories": ["charging", "wireless"],
+    "specs": {
+      "Power Output": "11 kW",
+      "Efficiency": "92%",
+      "Air Gap": "150-200 mm",
+      "Alignment Tolerance": "±75 mm",
+      "Operating Frequency": "85 kHz",
+      "Protection": "IP67",
+      "Installation": "Ground mounted",
+      "Warranty": "3 years"
+    },
+    "variants": [
+      {
+        "id": "7-1",
+        "name": "Residential",
+        "price": 1800
+      },
+      {
+        "id": "7-2",
+        "name": "Commercial",
+        "price": 2500
+      }
+    ],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "8",
+    "slug": "ev-dashboard-display",
+    "title": "EV Dashboard Display",
+    "shortDesc": "Advanced digital dashboard for electric vehicles",
+    "longDesc": "Our digital dashboard provides comprehensive vehicle information, navigation, and entertainment features. Features a high-resolution display with intuitive controls and connectivity options.",
+    "price": 950,
+    "currency": "INR",
+    "images": [
+      "/images/products/dashboard-1.jpg",
+      "/images/products/dashboard-2.jpg"
+    ],
+    "categories": ["electronics", "displays"],
+    "specs": {
+      "Display Size": "12.3 inches",
+      "Resolution": "1920 x 720",
+      "Brightness": "1000 nits",
+      "Touch": "Capacitive multi-touch",
+      "Connectivity": "WiFi, Bluetooth, 4G",
+      "Operating System": "Android Automotive",
+      "Mounting": "Dashboard integrated",
+      "Warranty": "2 years"
+    },
+    "variants": [
+      {
+        "id": "8-1",
+        "name": "Standard",
+        "price": 950
+      },
+      {
+        "id": "8-2",
+        "name": "Premium",
+        "price": 1400
+      }
+    ],
+    "inStock": true,
+    "featured": false
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "metric": "500+",
+    "label": "EV Components Delivered",
+    "description": "High-performance components shipped to leading automakers worldwide"
+  },
+  {
+    "id": "2",
+    "metric": "50M+",
+    "label": "Miles Powered",
+    "description": "Cumulative miles powered by our battery systems in electric vehicles"
+  },
+  {
+    "id": "3",
+    "metric": "95%",
+    "label": "Customer Satisfaction",
+    "description": "Satisfaction rate from our automotive partners and end customers"
+  },
+  {
+    "id": "4",
+    "metric": "25+",
+    "label": "Global Partners",
+    "description": "Strategic partnerships with leading automotive manufacturers"
+  },
+  {
+    "id": "5",
+    "metric": "1000+",
+    "label": "Charging Stations",
+    "description": "DC fast charging stations deployed across North America"
+  },
+  {
+    "id": "6",
+    "metric": "8",
+    "label": "Years Experience",
+    "description": "Years of expertise in electric vehicle technology and manufacturing"
+  },
+  {
+    "id": "7",
+    "metric": "200+",
+    "label": "Team Members",
+    "description": "Expert engineers, scientists, and professionals dedicated to EV innovation"
+  },
+  {
+    "id": "8",
+    "metric": "50+",
+    "label": "Patents Filed",
+    "description": "Innovative technologies and solutions protected by intellectual property"
+  },
+  {
+    "id": "9",
+    "metric": "99.9%",
+    "label": "Uptime",
+    "description": "Reliability rate of our battery management systems in the field"
+  },
+  {
+    "id": "10",
+    "metric": "15+",
+    "label": "Countries Served",
+    "description": "Global presence serving customers across multiple continents"
+  },
+  {
+    "id": "11",
+    "metric": "2M+",
+    "label": "CO2 Saved",
+    "description": "Tons of CO2 emissions avoided through our electric mobility solutions"
+  },
+  {
+    "id": "12",
+    "metric": "24/7",
+    "label": "Support",
+    "description": "Round-the-clock technical support and customer service"
+  }
+]

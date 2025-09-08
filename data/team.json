@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Sarah Chen",
+    "title": "Chief Executive Officer",
+    "bio": "Dr. Chen brings over 15 years of experience in electric vehicle technology and sustainable energy solutions. She holds a PhD in Electrical Engineering from MIT and has led multiple successful EV startups.",
+    "image": "/images/team/sarah-chen.jpg",
+    "email": "sarah.chen@enertrics.com",
+    "linkedin": "https://linkedin.com/in/sarah-chen",
+    "twitter": "https://twitter.com/sarahchen",
+    "department": "Executive"
+  },
+  {
+    "id": "2",
+    "name": "Michael Rodriguez",
+    "title": "Chief Technology Officer",
+    "bio": "Michael is a visionary technologist with expertise in battery systems, power electronics, and autonomous vehicle technology. He has filed over 20 patents in EV technology.",
+    "image": "/images/team/michael-rodriguez.jpg",
+    "email": "michael.rodriguez@enertrics.com",
+    "linkedin": "https://linkedin.com/in/michael-rodriguez",
+    "twitter": "https://twitter.com/mrodriguez",
+    "department": "Technology"
+  },
+  {
+    "id": "3",
+    "name": "Jennifer Park",
+    "title": "Chief Operating Officer",
+    "bio": "Jennifer oversees all operational aspects of Enertrics Power, from manufacturing to supply chain management. She has successfully scaled multiple manufacturing operations.",
+    "image": "/images/team/jennifer-park.jpg",
+    "email": "jennifer.park@enertrics.com",
+    "linkedin": "https://linkedin.com/in/jennifer-park",
+    "twitter": "https://twitter.com/jenniferpark",
+    "department": "Operations"
+  },
+  {
+    "id": "4",
+    "name": "David Wilson",
+    "title": "Head of Research & Development",
+    "bio": "David leads our R&D efforts, focusing on next-generation battery technology and advanced EV systems. He has published over 50 peer-reviewed papers in energy storage.",
+    "image": "/images/team/david-wilson.jpg",
+    "email": "david.wilson@enertrics.com",
+    "linkedin": "https://linkedin.com/in/david-wilson",
+    "twitter": "https://twitter.com/davidwilson",
+    "department": "R&D"
+  },
+  {
+    "id": "5",
+    "name": "Lisa Thompson",
+    "title": "Head of Manufacturing",
+    "bio": "Lisa manages our state-of-the-art manufacturing facilities, ensuring quality, efficiency, and sustainability in all production processes.",
+    "image": "/images/team/lisa-thompson.jpg",
+    "email": "lisa.thompson@enertrics.com",
+    "linkedin": "https://linkedin.com/in/lisa-thompson",
+    "twitter": "https://twitter.com/lisathompson",
+    "department": "Manufacturing"
+  },
+  {
+    "id": "6",
+    "name": "Dr. Robert Kim",
+    "title": "Senior Battery Engineer",
+    "bio": "Dr. Kim specializes in lithium-ion battery design and thermal management systems. He has developed several breakthrough battery technologies.",
+    "image": "/images/team/robert-kim.jpg",
+    "email": "robert.kim@enertrics.com",
+    "linkedin": "https://linkedin.com/in/robert-kim",
+    "twitter": "https://twitter.com/robertkim",
+    "department": "Engineering"
+  },
+  {
+    "id": "7",
+    "name": "Alex Johnson",
+    "title": "Head of Sales & Marketing",
+    "bio": "Alex leads our sales and marketing efforts, building partnerships with major automakers and expanding our market presence globally.",
+    "image": "/images/team/alex-johnson.jpg",
+    "email": "alex.johnson@enertrics.com",
+    "linkedin": "https://linkedin.com/in/alex-johnson",
+    "twitter": "https://twitter.com/alexjohnson",
+    "department": "Sales"
+  },
+  {
+    "id": "8",
+    "name": "Kumar Gambhir",
+    "title": "HR Manager",
+    "bio": "Maria ensures that all our operations and products meet the highest environmental standards, driving our commitment to sustainable practices.",
+    "image": "/images/team/Kumar Gambhir.jpg",
+    "email": "maria.garcia@enertrics.com",
+    "linkedin": "https://linkedin.com/in/maria-garcia",
+    "twitter": "https://twitter.com/mariagarcia",
+    "department": "Human Resources"
+  }
+]

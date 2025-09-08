@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Tesla Motors",
+    "logo": "/images/partners/tesla-logo.png",
+    "description": "Leading electric vehicle manufacturer and sustainable energy company",
+    "partnership": "Battery supply and technology collaboration",
+    "website": "https://tesla.com"
+  },
+  {
+    "id": "2",
+    "name": "General Motors",
+    "logo": "/images/partners/gm-logo.png",
+    "description": "Global automotive manufacturer committed to electric mobility",
+    "partnership": "EV component supply and joint development",
+    "website": "https://gm.com"
+  },
+  {
+    "id": "3",
+    "name": "Ford Motor Company",
+    "logo": "/images/partners/ford-logo.png",
+    "description": "Iconic American automaker transitioning to electric vehicles",
+    "partnership": "Battery technology and charging infrastructure",
+    "website": "https://ford.com"
+  },
+  {
+    "id": "4",
+    "name": "Volkswagen Group",
+    "logo": "/images/partners/vw-logo.png",
+    "description": "European automotive giant investing heavily in electric mobility",
+    "partnership": "Battery systems and power electronics",
+    "website": "https://volkswagen.com"
+  },
+  {
+    "id": "5",
+    "name": "BMW Group",
+    "logo": "/images/partners/bmw-logo.png",
+    "description": "Premium automotive manufacturer with electric vehicle focus",
+    "partnership": "Advanced battery technology and thermal management",
+    "website": "https://bmw.com"
+  },
+  {
+    "id": "6",
+    "name": "Mercedes-Benz",
+    "logo": "/images/partners/mercedes-logo.png",
+    "description": "Luxury automotive brand leading electric vehicle innovation",
+    "partnership": "High-performance battery systems",
+    "website": "https://mercedes-benz.com"
+  },
+  {
+    "id": "7",
+    "name": "Audi",
+    "logo": "/images/partners/audi-logo.png",
+    "description": "Premium German automaker with electric vehicle expertise",
+    "partnership": "Battery technology and charging solutions",
+    "website": "https://audi.com"
+  },
+  {
+    "id": "8",
+    "name": "Porsche",
+    "logo": "/images/partners/porsche-logo.png",
+    "description": "High-performance sports car manufacturer embracing electric mobility",
+    "partnership": "Performance battery systems and fast charging",
+    "website": "https://porsche.com"
+  },
+  {
+    "id": "9",
+    "name": "Rivian",
+    "logo": "/images/partners/rivian-logo.png",
+    "description": "Adventure vehicle manufacturer focused on electric trucks and SUVs",
+    "partnership": "Battery technology and off-road charging solutions",
+    "website": "https://rivian.com"
+  },
+  {
+    "id": "10",
+    "name": "Lucid Motors",
+    "logo": "/images/partners/lucid-logo.png",
+    "description": "Luxury electric vehicle manufacturer with advanced technology",
+    "partnership": "High-efficiency battery systems and power electronics",
+    "website": "https://lucidmotors.com"
+  },
+  {
+    "id": "11",
+    "name": "ChargePoint",
+    "logo": "/images/partners/chargepoint-logo.png",
+    "description": "Leading electric vehicle charging network operator",
+    "partnership": "Charging infrastructure and network solutions",
+    "website": "https://chargepoint.com"
+  },
+  {
+    "id": "12",
+    "name": "Electrify America",
+    "logo": "/images/partners/electrify-america-logo.png",
+    "description": "Nationwide electric vehicle charging network",
+    "partnership": "Fast charging infrastructure and technology",
+    "website": "https://electrifyamerica.com"
+  }
+]
